@@ -1,0 +1,5 @@
+webui_base_url: https://whatever.com # path to your Gradio web interface
+django_base_url: https://whatever.com:8080 # path to the Stable Diffusion API django server
+target_server: webui # [webui, django] Should the CLI target webui_base_url or django_base_url
+default_prompt_template: /notebooks/stable-diffusion-webui/textual_inversion_templates/style_filewords.txt # path to style_filewords.txt on the server
+timeout: 60 # How long to wait for the server to respond in the API 'oneshot' mode
