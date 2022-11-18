@@ -1,8 +1,8 @@
 # stable-diffusion-api
 
-_API for Stable Diffusion._
+_CLI and server for Stable Diffusion._
 
-API for [AUTOMATIC1111's Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui).
+CLI and server for [AUTOMATIC1111's Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui).
 
 ### Features
 
