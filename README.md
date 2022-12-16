@@ -4,6 +4,9 @@ _CLI and server for Stable Diffusion._
 
 CLI and server for [AUTOMATIC1111's Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui).
 
+# This project is dead for now since I no longer have a need for a CLI tool. If a need for it arises I'll pick it back up.
+
+
 ### Features
 
 The goal is to separate the compute server running the WebUI from the client and enable abstraction of the WebUI's features to enable powerful integration into other projects.
